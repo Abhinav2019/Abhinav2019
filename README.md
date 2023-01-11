@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on defi projects
 - 📫 How to reach me -nextcryptodeal@gmail.com
-- https://debank.com/profile/0xb6823dca119d93ef448915449f1af05d7d818447
 
 <!---
 Abhinav2019/Abhinav2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
